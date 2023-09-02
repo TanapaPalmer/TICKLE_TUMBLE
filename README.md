@@ -12,7 +12,7 @@
 
   <div>
     <p><strong>LANGUAGE I USE:</strong></p>
-    <p>:pencil2: HTML, CSS, Flask and JavaScript</p>
+    <p>:pencil2: HTML, CSS and JavaScript</p>
   </div>
 
   <hr>
